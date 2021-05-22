@@ -1,0 +1,3 @@
+simple website which students could take 3 quizzes in it, 
+log in and view some content like a page or two worth of course content in it. 
+Course content should be stored in database (just want it to work local in my computer).
